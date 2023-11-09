@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="/assets/styles/main.css">
   </head>
   <body>
-    <h2>Salut!! Common ca va?</h2>
+    <h2>Salut PHP!! Common ca va?</h2>
+    <br>
+    <?php echo 'ololo!!' ?>
   </body>
 </html>
